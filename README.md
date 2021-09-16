@@ -1,1 +1,1 @@
-# Welcome to Prestahop Git
+# Welcome to Prestahop @wizeaechitect Git!
